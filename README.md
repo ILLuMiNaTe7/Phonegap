@@ -1,5 +1,4 @@
-
-testPhoneGap
+PhoneGap
 ========
 
 > PhoneGap is a web platform that exposes native mobile device apis and data to JavaScript. PhoneGap is a distribution of [Apache Cordova](http://cordova.io).
